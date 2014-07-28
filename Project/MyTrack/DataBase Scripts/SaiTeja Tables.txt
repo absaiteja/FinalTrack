@@ -1,0 +1,51 @@
+USE [MyTrack]
+GO
+
+/****** Object:  Table [dbo].[Ticket]    Script Date: 07/24/2014 20:57:46 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Ticket](
+	[SId] [int] IDENTITY(1,1) NOT NULL,
+	[TicketId] [int] NOT NULL,
+	[PNRNumber] [nvarchar](10) NOT NULL,
+	[Source] [nvarchar](50) NOT NULL,
+	[Destination] [nvarchar](50) NOT NULL,
+	[DateOfJourney] [date] NOT NULL,
+	[DateOfBooking] [date] NOT NULL,
+	[NoOfPassengers] [int] NOT NULL,
+	[ArrivalTime] [decimal](2, 2) NOT NULL,
+	[DepartureTime] [decimal](2, 2) NOT NULL,
+	[Fare] [money] NOT NULL,
+	[Name] [nvarchar](50) NOT NULL,
+	[Age] [int] NOT NULL,
+	[Gender] [nvarchar](50) NOT NULL,
+	[BerthPreference] [nvarchar](50) NOT NULL
+) ON [PRIMARY]
+
+
+
+
+
+USE [MyTrack]
+GO
+
+/****** Object:  Table [dbo].[TrainDetails]    Script Date: 07/24/2014 20:57:41 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[TrainDetails](
+	[TrainNumber] [int] IDENTITY(1000,1) NOT NULL,
+	[TrainName] [nvarchar](50) NULL,
+	[Source] [nvarchar](50) NULL,
+	[Destination] [nvarchar](50) NULL,
+	[Distance] [int] NULL,
+	[ArrivalTime] [nvarchar](50) NULL,
+	[DepartureTime] [nvarchar](50) NULL
+) ON [PRIMARY]

@@ -1,0 +1,20 @@
+E:\Tibco rsumes Dump\MyT\MyTrack\MyTrack\SqlConnector\bin\Debug\SqlConnector.dll
+E:\Tibco rsumes Dump\MyT\MyTrack\MyTrack\SqlConnector\bin\Debug\SqlConnector.pdb
+E:\Tibco rsumes Dump\MyT\MyTrack\MyTrack\SqlConnector\obj\Debug\SqlConnector.dll
+E:\Tibco rsumes Dump\MyT\MyTrack\MyTrack\SqlConnector\obj\Debug\SqlConnector.pdb
+C:\Users\sandhya\Desktop\project\finalSolution\SqlConnector\bin\Debug\SqlConnector.dll
+C:\Users\sandhya\Desktop\project\finalSolution\SqlConnector\bin\Debug\SqlConnector.pdb
+C:\Users\sandhya\Desktop\project\finalSolution\SqlConnector\obj\Debug\SqlConnector.dll
+C:\Users\sandhya\Desktop\project\finalSolution\SqlConnector\obj\Debug\SqlConnector.pdb
+C:\Users\rajesh\Desktop\Projetct\final solution 26july ver1\SqlConnector\bin\Debug\SqlConnector.dll
+C:\Users\rajesh\Desktop\Projetct\final solution 26july ver1\SqlConnector\bin\Debug\SqlConnector.pdb
+C:\Users\rajesh\Desktop\Projetct\final solution 26july ver1\SqlConnector\obj\Debug\SqlConnector.dll
+C:\Users\rajesh\Desktop\Projetct\final solution 26july ver1\SqlConnector\obj\Debug\SqlConnector.pdb
+C:\Users\sandhya\Downloads\projecrt\final solution 26july ver1\SqlConnector\bin\Debug\SqlConnector.dll
+C:\Users\sandhya\Downloads\projecrt\final solution 26july ver1\SqlConnector\bin\Debug\SqlConnector.pdb
+C:\Users\sandhya\Downloads\projecrt\final solution 26july ver1\SqlConnector\obj\Debug\SqlConnector.dll
+C:\Users\sandhya\Downloads\projecrt\final solution 26july ver1\SqlConnector\obj\Debug\SqlConnector.pdb
+C:\Users\sandhya\Downloads\projecrt\Project\SqlConnector\bin\Debug\SqlConnector.dll
+C:\Users\sandhya\Downloads\projecrt\Project\SqlConnector\bin\Debug\SqlConnector.pdb
+C:\Users\sandhya\Downloads\projecrt\Project\SqlConnector\obj\Debug\SqlConnector.dll
+C:\Users\sandhya\Downloads\projecrt\Project\SqlConnector\obj\Debug\SqlConnector.pdb

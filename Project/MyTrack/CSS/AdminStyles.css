@@ -1,0 +1,71 @@
+﻿body {
+}
+.RightDiv {
+    width: 50%;
+    float: right;
+}
+.LeftDiv {
+    width: 50%;
+    float: left;
+}
+.LeftSpan, .RightSpan{
+    width: 25%;
+    display: inline-block;
+    margin-bottom:2%;
+}
+.RightSpan input[type="text"] {
+    width: 195%;
+    border-radius: 10px;
+    height: 35px
+    }
+.RightSpan input[type="text"]:hover {
+   background-color:ThreeDLightShadow;
+}
+.Buttons {
+    margin-left:20%;
+}
+.Buttons input[type="button"],.FareButtons input[type="button"] {
+    width: 13%;
+    margin-left: 5%;
+    height: 35px;
+    border-radius: 10px;
+    margin-bottom:3%;
+}
+.Buttons input[type="button"]:hover {
+        background-color: ThreeDLightShadow;
+}
+.ControlDiv .LeftSpan {
+    width:10%;
+    display:inline-block;
+}
+.ControlDiv .RightSpan input[type="text"] {
+    width: 110%;
+    border-radius: 10px;
+    height: 35px
+}
+#TrainScheduleGrid {
+    margin:auto;
+    margin-top:10px;
+}
+
+#Fare {
+    margin:auto;
+    width: 89%;
+    margin-top: 30px;
+}
+.Buttons .ButtonSpan  {
+    margin:auto;
+}
+
+.Mandatory {
+    margin-left:1%;
+}
+
+.LeftSpan label span {
+    display:inline;
+    color:red;
+}
+
+#list {
+    float: right;
+}

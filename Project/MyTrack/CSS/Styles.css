@@ -1,0 +1,124 @@
+﻿.no-close .ui-dialog-titlebar-close {
+    display:none;
+}
+.right {
+float:right;
+margin-right:25%;
+color:steelblue;
+margin-top:1%;
+}
+.sliderFrame {
+float:left;
+}
+.Text {
+float: left;
+width: 260px;
+background-color: darkgray;
+height: 400px;
+text-align: center;
+}
+.button {
+margin:1%;
+}
+.login {
+margin-left: 35%;
+margin-top: 10%;
+padding: 10px;
+width: 400px;
+height: 200px;
+background-color: silver;
+}
+.heading {
+background-color:orange;
+text-align:center;
+}
+.Ulogin {
+margin-left: 35%;
+margin-top: 10%;
+padding: 10px;
+width: 400px;
+height: 200px;
+background-color: silver;
+}
+.Ulogin p{
+background-color:orange;
+text-align:center;
+width:100px;
+}
+.login p {
+background-color:orange;
+text-align:center;
+width:50px;
+}
+.button {
+margin-left:1%;
+}
+.login span {
+width: 100px;
+display:inline-block;
+}
+.Ulogin span {
+width: 100px;
+display:inline-block;
+}
+.bottom-row input[type=submit] {
+	height:30px;
+    width:100px;
+    margin-left: 15%;
+    background-color:lightblue;
+    border-radius:10px;
+}
+.bottom-row span {
+    width:150px;
+    display:inline-block;
+}
+.bottom-row input[type=submit]:hover{
+    background-color: green;
+}
+.main-container {
+	padding:10px;
+	font-size:15px;
+    margin-top: 5%;
+margin-left: 35%;
+}
+.main-container .first-row label{
+     margin-top:10px;
+	margin-bottom:10px;
+}
+.main-container .second-row input[type='text'],.second-row input[type='password']{
+    margin-top:10px;
+    margin-bottom:10px;
+	width:35%;
+	height:30px;
+	border-radius:10px;
+	box-sizing:border-box;
+	box-shadow:cream;
+}
+    .main-container .second-row span {
+    width:150px;
+    display:inline-block;
+    margin:1%
+    }
+.main-container .second-row input[type='text']:Hover,.second-row input[type='password']:Hover{
+	background-color:lightgrey;
+}
+.Contact {
+float:right;
+}
+#Contact div{
+margin-left: 35%;
+margin-top: 10%;
+padding: 10px;
+width: 500px;
+height: 300px;
+background-color: silver;
+color:blue;
+}
+.para {
+margin-top:10%;
+color:blue;
+}
+.body,.button {
+margin-top:5%; 
+}
+

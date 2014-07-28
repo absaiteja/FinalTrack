@@ -1,0 +1,114 @@
+﻿body {
+}
+
+#printTicketBorder1 {
+    border: solid 1px #000000;
+    width: 720px;
+    margin: 0 auto;
+}
+
+.styleWL {
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: verdana;
+}
+.ui-widget-header {
+background:orange;
+color:blue;
+border:0;
+font-weight:normal;
+}
+.txt {
+    font-family: verdana,arial;
+    font-size: 10px;
+}
+
+.tablebdr {
+    border: 1px solid #666;
+    border-top: 0px solid #666;
+    border-right: 0px solid #666;
+}
+
+.tablebdr tr {
+    border: 1px solid #666;
+}
+
+.tablebdr tr td {
+    border: 1px solid #666;
+}
+
+.tablebdr tr td {
+    border-bottom: 0px solid #666;
+}
+
+.tablebdr tr td {
+    border-left: 0px solid #666;
+}
+
+
+
+#MiddleDiv {
+    width: 500px;
+    height: 80%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.ControlDiv {
+    margin-bottom: 5%;
+    margin-top: 2%;
+}
+
+.Mandatory {
+    margin-left: 1%;
+    color:red;
+}
+
+.ControlDiv span {
+    width: 145px;
+    display: inline-block;
+}
+
+.ControlDiv label span {
+    display: inline;
+    color: red;
+}
+
+.RightSpan input[type="text"] {
+    width: 250%;
+    height: 33px;
+    border-radius: 10px;
+}
+
+.RightSpan input[type="text"]:hover {
+    background-color: ThreeDLightShadow;
+}
+
+.ControlDiv input[type="button"], input[type="submit"] {
+    border-radius: 5px;
+  
+}
+
+.ddlWidth {
+    width: 218px;
+    border-radius:5px;
+}
+.chosen-container{
+    width:150px;
+}
+.leftSpan {
+    margin-top:1%;
+    width: 200px;
+display: inline-block;
+}
+fieldset {
+    background-color:whitesmoke;
+    border-radius:10px;
+}
+#fdsPnrStatus {
+    display:inline;
+}
+#fdsShowTrains {
+     display:inline;
+}
